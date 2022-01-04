@@ -1,0 +1,1044 @@
+@media (max-width:1255px){
+    header ul{
+        width: 980px;
+    }
+
+    .slider{
+        width: 992px;
+    }
+
+    .sobreContainer{
+        width: 980px;
+    }
+
+    .sobreContainer div{
+        width: 400px;
+    }
+
+    .serviços{
+        width: 992px;
+    }
+
+    .serviços p{
+        font-size: 45px;
+        text-align: center;
+    }
+
+    .serviçosCont{
+        width: 992px;
+    }
+
+    .serviçosBox{
+        width: 285px;
+    }
+
+    .serviçosBox span{
+        font-size: 29px;
+    }
+
+    .serviçosBox p{
+        font-size: 20px;
+    }
+
+    .grupoContainer{
+        width: 992px;
+    }
+
+    .grupoContainer p{
+        font-size: 40px
+    }
+    .grupoVC svg{
+        width: 70px;
+        height: 70px;
+    }
+
+    .grupoVC p{
+        font-size: 30px;
+    }
+
+    .grupoCont{
+        width: 600px;
+    }
+
+    .grupoBaixo{
+        width: 550px;
+    }
+
+    .grupoBaixo div{
+        width: 260px;
+    }
+
+    .grupoBaixo div img{
+        width: 260px;
+        height: 260px;
+    }
+
+    .grupoBaixo div span{
+        font-size: 38px;
+    }
+
+    .depoimentos{
+        width: 992px;
+    }
+
+    .depoimentoContBox{
+        width: 400px;
+    }
+
+    .edisplay{
+        width: 992px;
+    }
+
+    .eTimer{
+        width: 650px;
+    }
+
+    .professoresContainer{
+        width: 980px;
+    }
+
+    .professoresCont{
+        width: 700px;
+        display: grid;
+        grid-template-columns: auto auto ;
+        margin: auto;
+        gap: 30px;
+    }
+
+    .professoresBox{
+        margin: auto ;
+    }
+
+    .postContainer div{
+        width: max-content;
+    }
+
+    .postContainer div p{
+        font-size: 45px;
+    }
+
+    .planosCont{
+        width: 768px;
+    }
+
+    .planosCont p{
+        font-size: 45px;
+    }
+
+    .pText p{
+        font-size: 30px;
+    }
+
+    .pFinal p{
+        font-size: 30px;
+    }
+
+    .pfinalt p{
+        font-size: 30px;
+    }
+
+    .planos{
+        width: 768px;
+    }
+
+    .pC{
+        width: 330px;
+    }
+
+    .p{
+        width: 200px;
+    }
+
+    .pIcon{
+        width: unset;
+    }
+    .pbutton{
+        font-size: 25px;
+    }
+
+    .contatoG{
+        width: 980px;
+    }
+}
+
+@media (max-width:992px){
+    header {
+        display: none;
+    }
+
+    main{
+        position: relative;
+        top: 120px;
+    }
+
+    .headerMobile{
+        width: 100%;
+        height: 120px;
+        display: flex;
+        position: fixed;
+        background-color: #151515;
+        z-index: 1;
+    }
+
+    .headerMobile img{
+        width: 115px;
+        cursor: pointer;
+        margin: auto;
+    }
+
+    .headerMobileMenu{
+        width: 200px;
+        height: 120px;
+    }
+
+    .headerMobileMenu i{
+        color: #f7f7f7;
+        font-size: 50px;
+        margin-left: 30px;
+        position: relative;
+        top: 50%;
+        transform: translateY(-50%);
+        cursor: pointer;
+    }
+
+    .headerMobileText{
+        display: none;
+    }
+
+    .headerMobileText{
+        height: 500px;
+        width: 200px;
+        padding-left: 30px;
+        background-color: #151515;
+        gap: 30px;
+        position: relative;
+        top: 60px;
+        border-radius: 0 0 10px;
+        display: none;
+        grid-template-columns: auto;
+    }
+
+    .headerMobileTextAc{
+        display: grid;
+    }
+    
+    .headerMobileText a{
+        font-size: 40px;
+        color: #f7f7f7;
+        text-decoration: none;
+    }
+
+    .banner{
+        margin: auto;
+    }
+
+    .slider{
+        width: 768px;
+    }
+
+    .sobreContainer{
+        width: 768px;
+        display: grid;
+        height: 620px;
+    }
+
+    .sobreContainer div{
+        width: 100%;
+    }
+
+    .sobreContainer span{
+        margin: auto;
+    }
+
+    .sobreContainer img{
+        margin: auto;
+    }
+
+    .servicoContainer{
+        height: 1200px;
+    }
+
+    .serviços{
+        width: 768px;
+    }
+
+    .serviçosBox{
+        margin: auto;
+    }
+
+    .serviçosCont{
+        width: 768px;
+        grid-template-columns: auto auto;
+    }
+
+    .grupoContainer{
+        width: 768px;
+        display: grid;
+        height: max-content;
+        grid-template-columns: auto;
+        justify-content: unset;
+    }
+
+    .grupoV{
+        width: max-content; 
+        margin: auto;  
+    }
+
+    .grupoCont{
+        width: unset;
+        position: unset;
+        background-image: unset;
+    }
+
+    .grupoBaixo{
+        width: 430px;
+        height: 500px;
+        grid-template-columns: auto auto;
+    }
+
+    .grupoBaixo div{
+        width: 200px;
+    }
+
+    .grupoBaixo div img{
+        width: 200px;
+        height: 200px;
+    }
+
+    .depoimentos{
+        width: 768px;
+    }
+
+    .depoimentos p{
+        font-size: 45px;
+    }
+
+    .depoimentoCont{
+        width: 650px;
+        margin: auto;
+        grid-template-columns: auto;
+    }
+
+    .depoimentoContBox{
+        width: 600px;
+    }
+
+    .depoimentoContBox p{
+        font-size: 20px;
+    }
+
+    .edisplay{
+        width: 768px;
+    }
+    .professoresContainer{
+        width: 768px;
+    }
+
+    .postContainer{
+        height: 200px;
+    }
+
+    .postContainer div{
+        width: 768px;
+        height: max-content;
+        display: flex;
+    }
+
+    .postContainer button{
+        width: 500px;
+        font-size: 45px;
+    }
+   
+    .pbutton{
+        font-size: 25px;
+    }
+
+    .planos{
+        width: 768px;
+        height: max-content;
+        display: flex;
+    }
+
+    .contatoContainer{
+        position: relative;
+        top: 120px;
+    }
+
+    .contatoG{
+        width: 768px;
+    }
+}
+
+@media (max-width:768px){
+
+    .slider{
+        width: 579px;
+    }
+
+    .sobreContainer{
+        width: 579px;
+    }
+
+    .servicoContainer{
+        height: 2200px;
+    }
+
+    .serviços{
+        width: 579px;
+        position: unset;
+        transform: none;
+    }
+
+    .serviçosCont{
+        width: 579px;
+        grid-template-columns: auto;
+        gap: 50px 0;
+    }
+
+    .serviçosBox p{
+        width: 200px;
+    }
+
+    .grupoContainer{
+        width: 579px;
+    }
+
+    .depoimentos{
+        width: 579px;
+    }
+
+    .depoimentoCont{
+        width: 550px;
+    }
+
+    .depoimentoContBox{
+        width: 500px;
+    }
+
+    .edisplay{
+        width: 579px;
+    }
+
+    .eTimer{
+        width: 500px;
+    }
+
+    .professoresContainer{
+        width: 579px;
+    }
+
+    .professoresCont{
+        width: 579px;
+    }
+
+    .professoresBox{
+        padding: 10px;
+    }
+
+    .postContainer div p {
+        font-size: 45px;
+        text-align: center;
+    }
+
+    .postContainer div{
+        width: 579px;
+        display: grid;
+    }
+
+    .postContainer button{
+        font-size: 40px;
+    }
+
+    .planosContainer{
+        height: 850px;
+    }
+
+    .planosCont{
+        width: 579px;
+    }
+
+    .planosCont p{
+        font-size: 35px;
+    }
+
+    .pText p{
+        font-size: 20px;
+    }
+
+    .pFinal p{
+        font-size: 25px;
+        margin: 10px 0;
+    }
+
+    .pfinalt p{
+        font-size: 25px;
+    }
+
+    .planos{
+        width: 579px;
+    }
+
+    .pC{
+        width: 280px;
+    }
+
+    .p{
+        width: 100px;
+        height: max-content;
+    }
+
+    .pFinal{
+        height: 126px;
+        display: grid;
+    }
+
+    .pText{
+        font-size: 15px;
+    }
+
+    .pbutton{
+        font-size: 18px;
+    }
+
+    .postContainer{
+        height: 300px;
+    }
+
+    .postContainer div p {
+        text-align: center;
+        margin: 0;
+        margin-top: 30px;
+    }
+
+    .cards{
+        width: max-content;
+    }
+
+    .contatoContainer{
+        height: 1000px;
+        position: relative;
+        top: 30px;
+    }
+
+    .contatoG{
+        width: 400px;
+        display: grid;
+        gap: 20px 0;
+    }
+
+    .footer{
+        position: relative;
+        top: 30px;
+    }
+}
+
+@media (max-width:579px){
+
+    .banner{
+        width: 360px;
+        margin: auto;
+    }
+
+    .slider{
+        width: 360px;
+    }
+
+    .sobreContainer{
+        width: 360px;
+    }
+
+    .sobreContainer img{
+        width: 360px;
+    }
+
+    .sobreContainer img:hover{
+        width: 360px;
+    }
+
+    .serviços{
+        width: 360px;
+    }
+
+    .serviçosCont{
+        width: 360px;
+    }
+
+    .grupoContainer{
+        width: 360px;
+    }
+
+    .grupoV{
+        width: 360px;
+        margin: 0;
+    }
+
+    .grupoVC{
+        width: 360px;
+    }
+
+    .grupoVC svg{
+        width: 45px;
+        height: 45px;
+    }
+
+    .grupoBaixo{
+        width: 360px;
+        height: max-content;
+        grid-template-columns: auto;
+    }
+
+    .depoimentos{
+        width: 360px;
+    }
+
+    .depoimentoCont{
+        width: 360px;
+    }
+
+    .depoimentoContBox{
+        width: 360px;
+    }
+
+    .stars{
+        margin: 0;
+    }
+
+    .edisplay{
+        width: 360px;
+    }
+
+    .edisplay p{
+        font-size: 60px;
+    }
+
+    .eTimer{
+        width: 360px;
+    }
+
+    #timer{
+        font-size: 80px;
+    }
+
+    .professoresContainer{
+        width: 360px;
+    }
+
+    .professoresCont{
+        width: max-content;
+        grid-template-columns: auto;
+    }
+    
+
+    .postContainer div{
+        width: 360px;
+        display: grid;
+    }
+
+    .postContainer div p{
+        font-size: 35px;
+        margin: 10px 0;
+        text-align: center;
+    }
+
+    .postContainer button{
+        width: 350px;
+        font-size: 30px;
+    }
+
+    .planosContainer{
+        height: 1150px;
+    }
+
+    .planosCont{
+        width: 250px;
+        height: max-content;
+        top: 0;
+        transform: unset;
+        padding: 20px 0;
+    }
+
+    .planosCont
+
+    .planosCont p{
+        font-size: 23px;
+    }
+    
+    .planos{
+        height: max-content;
+        width: 250px;
+        display: grid;
+        grid-template-columns: auto auto auto;
+        gap: 0;
+        margin-top: 15px;
+    }
+
+    .pC{
+        width: 250px;
+        height: max-content;
+        grid-column-start: 1;
+        grid-column-end: 4;
+        margin-bottom: 15px;
+    }
+
+    .p{
+        width: 83.3px;
+    }
+
+    .pN {
+        height: 40px;
+    }
+
+    .pN span {
+        font-size: 15px;
+    }
+
+    .pN i{
+        font-size: 20px;
+    }
+
+    .pB {
+        height: 40px;
+    }
+
+    .pB span {
+        font-size: 15px;
+    }
+
+    .pB i{
+        font-size: 20px;
+    }
+
+    .pIcon{
+        height: max-content;
+    }
+
+    .pFinal{
+        height: max-content;
+    }
+
+    .pbutton{
+        padding: 0;
+    }
+
+
+    .contatoG{
+        width: 360px;
+    }
+
+    .contatoCont{
+        width: 360px;
+    }
+
+    .contatoCont div{
+        width: 360px;
+    }
+
+    .contatoLocal{
+        width: 360px;
+    }
+
+    .texto{
+        width: unset;
+    }
+}
+
+@media (max-width:440px){
+
+    main{
+        position: relative;
+        top: 80px
+    }
+
+    .headerMobile{
+        height: 80px;
+    }
+
+    .headerMobileMenu{
+        width: 100px;
+        height: 80px;
+    }
+
+    .headerMobileMenu i{
+        font-size: 35px;
+    }
+
+    .headerMobile img{
+        margin: 0;
+        margin-left: 50px;
+        width: 80px;
+    }
+
+    .headerMobileText{
+        top: 40px;
+        height: 350px;
+        width: 150px;
+    }
+
+    .headerMobileText a{
+        font-size: 30px;
+    }
+
+    .bannerSlide{
+        height: 600px;
+    }
+
+    .slider{
+        width: 250px;
+        height: 600px;
+    }
+
+    .banner{
+        width: 250px;
+    }
+
+    .banner strong{
+        font-size: 50px;
+    }
+
+    .banner button{
+        font-size: 35px;
+    }
+
+    .sobreContainer{
+        width: 250px;
+    }
+
+    .sobreContainer img{
+        display: none;
+    }
+    .sobreContainer span{
+        font-size: 35px;
+    }
+
+    .sobreContainer strong{
+        font-size: 25px;
+    }
+
+    .sobreContainer p{
+        font-size: 25px;
+    }
+
+    .servicoContainer{
+        height: 2400px;
+    }
+
+    .serviços{
+        width: 250px;
+        height: max-content;
+    }
+
+    .serviços p{
+        font-size: 35px;
+    }
+
+    .serviçosCont{
+        width: 250px;
+        height: max-content;
+    
+    }
+
+    .serviçosBox{
+        width: 250px;
+        height: max-content;
+    }
+
+    .serviçosBox svg{
+        width: 80px;
+        height: 80px;
+        margin-bottom: 13px;
+    }
+
+    .serviçosBox span{
+        font-size: 23px;
+        margin-bottom: 5px;
+    }
+
+    .serviçosBox p{
+        font-size: 21px;
+    }
+
+    .grupoContainer{
+        width: 250px;
+    }
+
+    .grupo p{
+        font-size: 35px;
+        color: #2670bf;
+    }
+
+    .grupoV{
+        width: 250px;
+        height: max-content;
+    }
+
+    .grupoVC{
+        width: 250px;
+    }
+    
+    .grupoVC p:nth-child(1n){
+        font-size: 28px;
+        color: #2686bc;
+    }
+    .grupoVC div{
+        width: 250px;
+    }
+
+    .grupoVC svg{
+        width: 25px;
+        height: 25px;
+        display: none;
+    }
+
+    .grupoBaixo{
+        width: 250px;
+    }
+
+    .grupoBaixo div span{
+        font-size: 30px;
+    }
+
+    .eventoContainer{
+        width: 100%;
+    }
+
+    .edisplay{
+        width: 250px;
+    }
+
+    .edisplay p{
+        font-size: 40px;
+        width: max-content;
+        margin: auto;
+    }
+
+    .eTimer{
+        width: 230px;
+    }
+
+    #timer{
+        font-size: 50px;
+    }
+
+    .eIcon{
+        width: 230px;
+        padding: 10px;
+    }
+
+    .depoimentoCont{
+        width: 250px;
+    }
+
+    .depoimentoContBox{
+        width: 230px;
+        height: max-content;
+    }
+
+    .depoimentoContBox div{
+        height: max-content;
+        display: grid;
+        margin: auto;
+    }
+
+    .depoimentoContBox span{
+        font-size: 24px;
+        margin-left: 0;
+        text-align: center;
+    }
+
+    .depoimentoContBox img{
+        margin: auto;
+    }
+
+    .professoresContainer{
+        width: max-content;
+    }
+
+    .professoresContainer p{
+        font-size: 40px;
+    }
+
+    .professoresCont img{
+        width: 200px;
+        height: 200px;
+    }
+
+    .professoresBox{
+        width: unset;
+    }
+
+    .stars{
+        display: flex;
+    }
+    .postContainer div{
+        height: 200px;
+        display: grid;
+    }
+
+    .postContainer div p {
+        text-align: center;
+        font-size: 30px;
+        margin: 0;
+        margin-top: 30px;
+    }
+
+    .postContainer button{
+        width: max-content;
+        font-size: 25px;
+        margin: auto;
+    }
+
+    .pFinal p {
+        font-size: 20px;
+        margin: 10px 0;
+    }
+    
+    .pfinalt p {
+        font-size: 23px;
+    }
+
+    .pFinal{
+        height: max-content;
+    }
+
+    .contatoContainer{
+        height: 900px;
+        top: 80px;
+    }
+
+    .contatoCont p{
+        font-size: 33px;
+    }
+
+    .contatoG{
+        width: 250px;
+    }
+
+    .contatoCont{
+        width: 250px;
+    }
+
+    .contatoCont div{
+        width: 250px;
+    }
+
+    .contatoLocal{
+        width: 250px;
+    }
+
+    .ContatoLocalBox{
+        width: 250px;
+    }
+
+    .contatoLocalTexto span{
+        font-size: 15px;
+    }
+
+    .ContatoLocalBox i{
+        font-size: 35px;
+    }
+
+    .footer{
+        top: 80px;
+    }
+
+}
