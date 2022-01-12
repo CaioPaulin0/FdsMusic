@@ -73,7 +73,7 @@ header li:hover{
 .bannerSlide{
     width: 100%;
     height: 800px;
-    background-image: url('/src/img/slide.jpg');
+    background-image: url('/img/slide.jpg');
 }
 
 .slider{
